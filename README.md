@@ -14,6 +14,6 @@ Engineer with proven ability to solve problems, analytical thinking, assertive c
 - Specialist/ApplicationsEngineer @SIEMENSENERGY ()
 
 # Education
-
-
-# Projects 
+- DESIGNINGAIPRODUCTS | MITxPro-ProfessionalEducation (2021)
+- M.SC-DATASCIENCE |UniversidadAustral (2019-2020)
+- BS.  ENGINEERING | Pontificia Universidad Javeriana
