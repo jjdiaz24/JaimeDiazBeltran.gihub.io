@@ -1,5 +1,26 @@
+url: https://jjdiaz24.github.io/JaimeDiazBeltran.gihub.io/
+
 title: Jaime Diaz-Beltran
 logo: assets/foto_.png
 #description: text below image
 # show_downloads: true
+email: jaime.diazbeltran@gmail.com
 theme: jekyll-theme-minimal
+
+
+# Team names, titles and social links
+people:
+- name: Jaime Diaz-Beltran
+  # pic: 1
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+      
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/jaimediazbeltran/
